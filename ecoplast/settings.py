@@ -27,9 +27,7 @@ SECRET_KEY = 'django-insecure-%o^q=6d*$9sh(+dr31@mnghh$d*-9ibj--a8s7-s4om43#vb4a
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-SECURE_SSL_REDIRECT = True
-SESSION_COOKIE_SECURE = True
-CSRF_COOKIE_SECURE = True
+
 
 # Application definition
 
